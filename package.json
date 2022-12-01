@@ -20,7 +20,7 @@
     "@oclif/core": "^1",
     "@oclif/plugin-help": "^5",
     "@oclif/plugin-plugins": "^2.0.1",
-    "aws-sdk": "^2.1186.0"
+    "aws-sdk": "^2.1265.0"
   },
   "devDependencies": {
     "@oclif/test": "^2",
